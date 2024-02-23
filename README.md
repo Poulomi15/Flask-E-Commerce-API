@@ -20,9 +20,6 @@ Create a file named app.py and copy the provided code into it.
 
 Ensure you have Python installed on your system. Then, install the required dependencies using the following command:
 
-### bash
-pip install Flask Flask-RESTful Flask-SQLAlchemy
-
 ## Configure Database
 The application uses SQLite as the database. No additional setup is required for SQLite. If you wish to use a different database, update the SQLALCHEMY_DATABASE_URI in app.py accordingly.
 
